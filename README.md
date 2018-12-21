@@ -1,6 +1,6 @@
 # [WIP] YTKWebApp
 
-YTKWebApp 是一套 Hybrid App 开发工具库，用于解决 Hybrid App 开发过程中会遇到的缓存、通信、页面切换等问题。
+YTKWebApp 是一组 Hybrid App 开发工具库，用于解决 Hybrid App 开发过程中会遇到的缓存、通信、页面切换等问题。
 
 ## 组件
 
@@ -33,6 +33,11 @@ YTKWebApp 分为以下组件：
 
 * [WIP] [YTKWebViewStack-Android](https://github.com/yuantiku/YTKWebViewStack-Android)
 * [WIP] [YTKWebViewStack-iOS](https://github.com/yuantiku/YTKWebViewStack-iOS)
+
+## Contributors
+
+* [jinxinzheng](https://github.com/jinxinzheng)
+* [xiaochun0618](https://github.com/xiaochun0618)
 
 ## 协议
 
