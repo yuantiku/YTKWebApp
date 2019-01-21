@@ -19,6 +19,7 @@ YTKWebApp 分为以下组件：
 
 * [WIP] [YTKJsBridge-Android](https://github.com/yuantiku/YTKJsBridge-Android)
 * [WIP] [YTKJsBridge-iOS](https://github.com/yuantiku/YTKJsBridge-iOS)
+* [WIP] [YTKJsBridge-JS](https://github.com/yuantiku/YTKJsBridge-JS)
 
 ## YTKResourceCache
 
